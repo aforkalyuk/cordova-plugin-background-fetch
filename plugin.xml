@@ -26,6 +26,7 @@
         <config-file target="*-Info.plist" parent="BGTaskSchedulerPermittedIdentifiers">
             <array>
                 <string>com.transistorsoft.fetch</string>
+                <string>com.huckleberry-labs.liveactivity.sws.end</string>
             </array>
         </config-file>
 
